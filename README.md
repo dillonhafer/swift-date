@@ -31,6 +31,9 @@ date.isSaturday()
 
 date.wday
 => 7
+
+copyrightLabel.text = "Copyright © \(Date.today.year)"
+=> Copyright © 2014
 ```
 
 **Int extensions**
@@ -44,7 +47,6 @@ Date.today
 
 5.days.from_now
 => 2014-6-15
-
 ```
 
 ## Credits
