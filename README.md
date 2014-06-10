@@ -10,7 +10,7 @@ Date is a convenience wrapper around NSDate objects written in swift.
 Examples
 -----
 
-```
+```swift
 var date = Date(year: 2014, month: 3, day: 1)
 => 2014-3-1
 
@@ -35,7 +35,7 @@ date.wday
 
 **Int extensions**
 
-```
+```swift
 Date.today
 => 2014-6-10
 
