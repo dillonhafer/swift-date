@@ -14,6 +14,12 @@ Examples
 var date = Date(year: 2014, month: 3, day: 1)
 => 2014-3-1
 
+var date = Date.parse("2014-3-1")
+=> 2014-3-1
+
+var date = Date.parse("3-1-2014", format: "MM-dd-yyyy")
+=> 2014-3-1
+
 date.year
 => 2014
 
