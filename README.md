@@ -23,11 +23,14 @@ date.month
 date.day
 => 1
 
-date.isLeep
+date.isLeep()
 => false
 
-date.isSaturday
+date.isSaturday()
 => true
+
+date.wday
+=> 7
 ```
 
 **Int extensions**
@@ -40,7 +43,7 @@ Date.today
 => 2014-6-5
 
 5.days.from_now
-=> 2-14-6-15
+=> 2014-6-15
 
 ```
 
