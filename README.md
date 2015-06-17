@@ -57,13 +57,11 @@ Date.today
 
 ## Credits
 
-[![Boondock Walker](https://farm4.staticflickr.com/3684/9677153149_c7f7cac09d_o.png)](http://www.boondockwalker.com)
-
-Date is maintained by [Dillon Hafer](http://www.dillonhafer.com) and [Boondock Walker](http://www.boondockwalker.com)
+Date is maintained by [Dillon Hafer](http://www.dillonhafer.com)
 
 ## License
 
-Date is Copyright © 2014 Dillon Hafer and Boondock Walker, LLC. It is free software, and may be redistributed under the terms specified below.
+Date is Copyright © 2014 Dillon Hafer. It is free software, and may be redistributed under the terms specified below.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
